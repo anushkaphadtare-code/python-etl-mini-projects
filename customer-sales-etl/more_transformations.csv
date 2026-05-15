@@ -1,0 +1,6 @@
+customer_id,customer_name,city,sales,sales_with_tax,customer_name_upper
+1,Aarav,Pune,5000.0,5900.0,AARAV
+2,Priya,Mumbai,7000.0,8260.0,PRIYA
+3,Rohan,Delhi,0.0,0.0,ROHAN
+4,Sneha,Bangalore,6500.0,7670.0,SNEHA
+5,Karan,Ahmedabad,4000.0,4720.0,KARAN
