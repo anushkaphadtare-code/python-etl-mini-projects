@@ -4,3 +4,4 @@ This repository contains beginner-friendly ETL and data engineering mini project
 
 ## Projects
 - customer-sales-etl
+- sales-analysis-pandas
